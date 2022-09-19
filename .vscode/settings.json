@@ -45,6 +45,8 @@
     "streambuf": "cpp",
     "cinttypes": "cpp",
     "typeinfo": "cpp",
-    "deque": "cpp"
-  }
+    "deque": "cpp",
+    "fstream": "cpp",
+    "sstream": "cpp"
+  },
 }
